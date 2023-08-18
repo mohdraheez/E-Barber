@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599175450766",
+    "project_id": "e-barber-63a05",
+    "storage_bucket": "e-barber-63a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599175450766:android:548263b25a053cd27ef9df",
+        "android_client_info": {
+          "package_name": "com.example.hairsalonbookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599175450766-vo4s3l867ib30hlkg6cpsop565kutr0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXeJTFwbNMhDFF9pJeys4ZtwYt82clHLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599175450766-a0d6n166rma75euedm79vd6kc28t7907.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

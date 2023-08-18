@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_appointment.xml" value="0.2784615384615385" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_barber.xml" value="0.22" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_barberhome.xml" value="0.25" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_barberlogin.xml" value="0.22" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_home.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_login.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_main.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_notification.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_on_boarding.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_register.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_services.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/activity_trends.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/barberlogin.xml" value="0.22" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/item.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/onboard_item.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/manso/Downloads/E BARBER/E BARBER/app/src/main/res/layout/video_view.xml" value="0.26666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
